@@ -1,4 +1,4 @@
-# Multi-Stage build to compile skope and only "move" to an alpine container
+# Multi-Stage build to compile skopeo and only "copy" to an alpine container
 # GO_TAG: 1.14.0
 # ALPINE_TAG: 3.10.3
 # SKOPEO_VERSION: 0.1.41
